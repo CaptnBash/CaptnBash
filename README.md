@@ -1,6 +1,6 @@
 ## Hi there 👋
-## [CTF Challenges🚩](https://github.com/stars/CaptnBash/lists/ctf)
-Check out my own [CTF Challenges](https://github.com/stars/CaptnBash/lists/ctf) I designed or helped to design :)
+## [CTF Challenges🚩](https://github.com/stars/CaptnBash/lists/my-ctfs)
+Check out my own [CTF Challenges](https://github.com/stars/CaptnBash/lists/my-ctfs) I designed or helped to design :)
 
 <!--
 **CaptnBash/CaptnBash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
